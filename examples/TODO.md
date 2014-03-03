@@ -1,4 +1,5 @@
-# TODO
+TODO
+====
 
 I have not put my example here yet. But I develop this library when using Django, so it may work well with Django.
 
