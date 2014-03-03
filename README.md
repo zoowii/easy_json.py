@@ -18,7 +18,7 @@ Works well with Django and other Python code
 ```
 pip install easy_install
 ```
-or download the package the command `python setup.py install`
+or download the package and run the command `python setup.py install`
 
 # Usage:
 ```
