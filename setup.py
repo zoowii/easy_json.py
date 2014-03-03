@@ -5,6 +5,7 @@ setup(
     version='0.0.1',
     keywords=('json', 'easy_json', 'simple', 'Django'),
     description='a python json serialize/deserialize library which is easy to use',
+    url='https://github.com/zoowii/easy_json.py',
     license='MIT License',
     install_requires=[],
     author='zoowii',
