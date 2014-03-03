@@ -1,4 +1,6 @@
 *.pyc
 *~
 build/
+easy_json.egg-info
+dist/
 .idea/

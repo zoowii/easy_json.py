@@ -7,6 +7,19 @@ Works well with Django and other Python code
 
 # Author: [zoowii](http://zoowii.com)
 
+# PyPi page
+[https://pypi.python.org/pypi/easy_json](https://pypi.python.org/pypi/easy_json)
+
+# Supported Platforms
+* Python 3.x
+* Python 2.7
+
+# Install
+```
+pip install easy_install
+```
+or download the package the command `python setup.py install`
+
 # Usage:
 ```
 from easy_json import JSON
